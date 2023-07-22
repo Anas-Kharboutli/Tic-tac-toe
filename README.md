@@ -1,4 +1,4 @@
-# Tic-tac-toe
+# Tic-tac-toe Game
 
 <img width="397" alt="image" src="https://github.com/Anas-Kharboutli/Tic-tac-toe/assets/127590238/1a7df224-75b1-463f-afde-b88e9d4eab98">
 
